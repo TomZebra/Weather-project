@@ -3,8 +3,7 @@
 
 ## Description
 
-A simple Sign-Up form for logging your credentials.
-The code is written with Node.js with express, request and bodeyParser modules. The design form is from a Bootstrap library.
+A simple weather app.
 
 ## Installation
 
@@ -23,13 +22,19 @@ Run the app
 nodemon app
 ```
 
+type http://localhost:3000/ in your browser adress bar
+
+
 ## Usage
 
-Enter your Name and e-mail to sign-up. 
+Enter a City and click search, the weather API should respond and send back current  weather information for that City.
+The API key is not present in this file
 
 ## Visuals
 
-![home](https://user-images.githubusercontent.com/119517554/224740208-d478ed0b-02be-47df-9885-226e9acc2902.PNG)
+![home](https://user-images.githubusercontent.com/119517554/224755264-d7f40acd-295b-418c-b06f-27f60f81c83d.PNG)
+
+![Capture](https://user-images.githubusercontent.com/119517554/224755273-f7165727-f3b4-40c9-ad70-3b022423e391.PNG)
 
 
 
