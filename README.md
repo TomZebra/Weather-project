@@ -1,4 +1,4 @@
-# Sign-Up App
+# Weather project
 
 
 ## Description
